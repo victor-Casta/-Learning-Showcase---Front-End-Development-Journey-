@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  min-height: 100vh;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: #1A1F2B;
+ }
+product-card {
+  --primary-background: rgb(235, 86, 0);
+}
